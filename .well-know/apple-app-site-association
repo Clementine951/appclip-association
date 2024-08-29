@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["9WW9N57U4X.com.moonshot.disposable.Clip"],
+        "paths": ["/clip/*"]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["9WW9N57U4X.com.moonshot.disposable.Clip"]
+  },
+  "appclips": {
+    "apps": ["9WW9N57U4X.com.moonshot.disposable.Clip"]
+  }
+}
